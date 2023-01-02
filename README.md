@@ -6,7 +6,7 @@ This player has been made taking John Elder's Udemy course to build an MP3 Playe
 
 I have added to the code a few lines for the App to automatically play the next song of the playlist when the current one is over.
 Inside the playtime function is the use of try/except to catch an error that is generated when there isn't a next song.
-Line 86.
+This can be found at line 86 inside the script of player.py file.
 
 To Run the Player
 1. Download the file
